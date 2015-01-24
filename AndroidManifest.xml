@@ -21,7 +21,7 @@
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="21" />
+        android:targetSdkVersion="19" />
 
     <permission android:name="com.cyanogenmod.lockclock.permission.READ_WEATHER" />
 
